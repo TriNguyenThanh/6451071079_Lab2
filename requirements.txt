@@ -5,3 +5,5 @@ matplotlib
 ipykernel
 openpyxl
 mlxtend
+scikit-learn
+pillow
