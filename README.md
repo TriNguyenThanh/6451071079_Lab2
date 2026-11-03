@@ -41,14 +41,14 @@ Kho lưu trữ này chứa toàn bộ mã nguồn, tài liệu và hình ảnh t
 
 ## DANH SÁCH BÀI TẬP VÀ MÃ NGUỒN
 
-| Bài | Tên bài tập | Notebook | Dataset | Mô hình áp dụng |
-| :--- | :--- | :--- | :--- | :--- |
-| **Bài 1** | Adult Income | `Bai1/6451071079_LAB2_Bai1.ipynb` | `adult.data.csv`, `adult.test.csv` | ID3, CART, GaussianNB |
-| **Bài 2** | Red Wine Quality | `Bai2/6451071079_LAB2_Bai2.ipynb` | `winequality-red.csv` | ID3, CART, GaussianNB |
-| **Bài 3** | Heart Disease | `Bai3/6451071079_LAB2_Bai3.ipynb` | `heart.csv` | ID3, CART, GaussianNB |
-| **Bài 4** | Mushroom Classification | `Bai4/6451071079_LAB2_Bai4.ipynb` | `mushrooms.csv` | ID3, CART, GaussianNB |
+| Bài       | Tên bài tập               | Notebook                          | Dataset                                 | Mô hình áp dụng           |
+| :-------- | :------------------------ | :-------------------------------- | :-------------------------------------- | :------------------------ |
+| **Bài 1** | Adult Income              | `Bai1/6451071079_LAB2_Bai1.ipynb` | `adult.data.csv`, `adult.test.csv`      | ID3, CART, GaussianNB     |
+| **Bài 2** | Red Wine Quality          | `Bai2/6451071079_LAB2_Bai2.ipynb` | `winequality-red.csv`                   | ID3, CART, GaussianNB     |
+| **Bài 3** | Heart Disease             | `Bai3/6451071079_LAB2_Bai3.ipynb` | `heart.csv`                             | ID3, CART, GaussianNB     |
+| **Bài 4** | Mushroom Classification   | `Bai4/6451071079_LAB2_Bai4.ipynb` | `mushrooms.csv`                         | ID3, CART, GaussianNB     |
 | **Bài 5** | MNIST Hand-written Digits | `Bai5/6451071079_LAB2_Bai5.ipynb` | `load_digits()` + `test_image_Bai7.jpg` | ID3, Pillow Preprocessing |
-| **Bài 6** | F-measure Calculation | `Bai6/6451071079_LAB2_Bai6.ipynb` | Dữ liệu cơ bản | F-measure Formula & Code |
+| **Bài 6** | F-measure Calculation     | `Bai6/6451071079_LAB2_Bai6.ipynb` | Dữ liệu cơ bản                          | F-measure Formula & Code  |
 
 ---
 
@@ -108,11 +108,3 @@ lab2/
    ```bash
    jupyter notebook
    ```
-
----
-
-## QUY CHUẨN MÃ NGUỒN & CAM KẾT (RULES & COMMIT)
-
-- **Văn phong**: Dùng văn phong học thuật chuẩn mực, không dùng từ ngữ chuyên ngành nâng cao hoa mĩ.
-- **Code style**: Tuyệt đối không thêm icon vào mã nguồn; trong code được dùng tiếng Việt có dấu rõ ràng.
-- **Git commit**: Mỗi câu hỏi sau khi verify thành công thì commit một lần theo định dạng `feature<name>: message` bằng author trên máy tính, tuyệt đối không dùng co-author claude.
